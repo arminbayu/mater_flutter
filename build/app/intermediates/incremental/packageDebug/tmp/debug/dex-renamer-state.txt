@@ -1,0 +1,4 @@
+#Mon Aug 29 16:06:23 WIB 2022
+base.0=/home/bayu/Documents/PROJECT WEB & MOBILE/FLUTTER MASTER/master-flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
